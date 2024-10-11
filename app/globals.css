@@ -2,26 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  color: var(--foreground);
-  background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@media print {
+  .page-break {
+    clear: both;
+    break-after: page;
+  }
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+}
+
+@layer components {
+  .prose p:has(img) {
+    width: calc(100% + 8em);
+  }
+
+  .prose table {
+    width: calc(100% + 8em); /* This makes the table 8em wider */
+    font-size: 0.875rem;
+  }
+
+  .prose table th,
+  .prose table td {
+    font-size: 0.875rem; /* Ensure headers and cells have smaller font size */
   }
 }

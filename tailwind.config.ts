@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import typography from "@tailwindcss/typography";
 
 const config: Config = {
   content: [
@@ -8,12 +9,17 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      typography: {
+        DEFAULT: {
+          css: {
+            blockquote: {
+              quotes: "none", // Disable the quote marks that it inserts
+            },
+          },
+        },
       },
     },
   },
-  plugins: [],
+  plugins: [typography],
 };
 export default config;
