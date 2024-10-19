@@ -1,5 +1,10 @@
 # Career Tracks and Compensation Strategy for the Software Development Team
 
+Author: John Munson  
+Date: October 10th, 2024
+
+---
+
 1. [Compensation Philosophy](#1-compensation-philosophy)
 2. [Market Benchmarking and Internal Equity](#2-market-benchmarking-and-internal-equity)
 3. [Preventing Title Drift and Title Bloat](#3-preventing-title-drift-and-title-bloat)
