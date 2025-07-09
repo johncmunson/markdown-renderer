@@ -7,9 +7,23 @@
 
 ## PROFESSIONAL EXPERIENCE
 
+**Drive Social • Aug ‘20—Mar ‘25**
+
+Head of Software Development
+- asdf
+- asdf
+
+Sr. Software Engineer
+- asdf
+- asdf
+
+Software Engineer
+- asdf
+- asdf
+
 **Bayer Crop Science • Sep ‘19—Aug ‘20**
 
-Software Developer, Supervisor: Cindy Ostrander
+Software Developer
 - Microservices environment, with apps handling > 500k requests a day
 - Dozens of other apps dependent on my team to enable their E2E workflow
 - Designed both REST and GraphQL APIs using Node and Express with a strict adherence to semantic versioning
@@ -31,7 +45,7 @@ Software Developer, Supervisor: Cindy Ostrander
 
 **Catastrophe Solutions International • Sep ‘18—Sep ‘19**
 
-Sr. UI/UX Engineer, Supervisor: Josh Stevens
+Sr. UI/UX Engineer
 - Migrated legacy codebase to a modern React/Redux architecture
 - Maintained Ionic mobile applications
 - Dockerized Symfony API to enable cloud deployments
@@ -40,7 +54,7 @@ Sr. UI/UX Engineer, Supervisor: Josh Stevens
 
 **Transactly • Aug ‘17—Sep ‘18**
 
-UI/UX Engineer, Supervisor: Josh Stevens
+UI/UX Engineer
 - Part of an agile team focused on modernizing real estate transactions
 - Single Page Application built in AngularJS that interfaced with a Symfony API
 - Led the team’s migration to React while maintaining old codebase
@@ -48,7 +62,7 @@ UI/UX Engineer, Supervisor: Josh Stevens
 
 **Legendary AI • Jan ‘17—July ‘17**
 
-Contract Engineer, Supervisor: Jeff Schneider
+Contract Engineer
 - Developed frontend for flagship natural language processing tool, Langbench.com
 - Frontend built with React, Redux, Webpack, and Babel
 - Integrated with numerous 3rd party REST APIs
