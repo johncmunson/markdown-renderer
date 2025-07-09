@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Markdown Renerer",
+  title: "Markdown Renderer",
   description: "Because the markdown renderers online all suck",
 };
 

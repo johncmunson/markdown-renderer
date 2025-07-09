@@ -1,4 +1,4 @@
-# Career Tracks and Compensation Strategy for the Software Development Team
+# Career Tracks and Compensation Strategy for the Tech Department
 
 Author: John Munson  
 Date: October 10th, 2024
