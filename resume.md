@@ -9,18 +9,14 @@
 
 **Drive Social • Aug ‘20—Mar ‘25**
 
-Head of Software Development
-- asdf
-- asdf
+Head of Software Development • 2yr
+- COMPLETE THIS SECTION
 
-Sr. Software Engineer
-- asdf
-- asdf
+Sr. Software Engineer • 2yr
+- COMPLETE THIS SECTION
 
-Software Engineer
-- asdf
-- asdf
-- asdf
+Software Engineer • 1yr
+- COMPLETE THIS SECTION
 
 **Bayer Crop Science • Sep ‘19—Aug ‘20**
 
@@ -47,19 +43,20 @@ Software Developer
 **Catastrophe Solutions International • Sep ‘18—Sep ‘19**
 
 Sr. UI/UX Engineer
-- Migrated legacy codebase to a modern React/Redux architecture
-- Maintained Ionic mobile applications
-- Dockerized Symfony API to enable cloud deployments
-- Wrote serverless Node functions and deployed to AWS Lambda
+- Migrated legacy jQuery codebase to a modern React/Redux architecture
+- Maintained Ionic mobile applications which compiled to Android and iOS
+- Created a DSL / markup language used by field techs for rapid data capture
+- Dockerized backend microservices to enable one-click cloud deployments
 - Created token-based authentication and signup workflows
 
 **Transactly • Aug ‘17—Sep ‘18**
 
 UI/UX Engineer
 - Part of an agile team focused on modernizing real estate transactions
-- Single Page Application built in AngularJS that interfaced with a Symfony API
-- Led the team’s migration to React while maintaining old codebase
-- Advocated for and implemented an end-to-end testing suite
+- Spearheaded a large migration effort from AngularJS to React and TypeScript
+- Built out an internal React component library using Storybook (70+ reusable components)
+- Advocated for and implemented an end-to-end testing suite using CypressJS
+- Implemented frontend CI/CD pipelines with automated testing and code quality checks
 
 **Legendary AI • Jan ‘17—July ‘17**
 
@@ -76,42 +73,4 @@ Rose–Hulman Institute of Technology • 2010—14
 - Bachelor of Science, Civil Engineering
 - Academic interests: engineering software, finite element analysis
 - President, American Society of Civil Engineers
-
----
-
-## REFERENCES
-
-Jeff Schneider
-Legendary AI
-Chief Executive Officer
-(512) 844 1732
-jschneider@legendary.ai	Josh Stevens
-Mastercard 
-Software Engineer
-(641) 226 2329
-Austin Byrd
-Wyze Labs
-Sr. Product Designer
-(314) 616 3693
-austinbyrd10@gmail.com
-	Darien Sandifer
-Transactly
-Software Engineer
-(618) 581 2711
-darien@transactly.com
-
-Daniel Schwent
-Bayer Crop Science
-Product Manager
-daniel.schwent@bayer.com	Channon Goodrum
-Bayer Crop Science
-Software Developer
-(618) 978 1360
-channon.goodrum@bayer.com
-Dave Welch
-Bayer Crop Science
-Sr. DevOps Engineer
-dave.welch@bayer.com	Rick Meyer
-Shriley Contracting, LLC
-Sr. Project Manager
-rmeyer@shirleycontracting.com
+- Varsity Soccer, 4-years
