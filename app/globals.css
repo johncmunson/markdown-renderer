@@ -1,9 +1,20 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@config "../tailwind.config.ts";
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.prose hr {
+  margin-top: 2em !important;
+  margin-bottom: 2em !important;
+}
+
+.prose a[href="mailto:JOHNCMUNSON91@GMAIL.COM"] {
+  text-decoration: none;
+  color: inherit;
+  font: inherit;
 }
 
 @media print {
@@ -20,17 +31,7 @@ body {
 }
 
 @layer components {
-  .prose p:has(img) {
-    width: calc(100% + 8em);
-  }
-
   .prose table {
-    width: calc(100% + 8em); /* This makes the table 8em wider */
-    font-size: 0.875rem;
-  }
-
-  .prose table th,
-  .prose table td {
-    font-size: 0.875rem; /* Ensure headers and cells have smaller font size */
+    font-size: 0.75em;
   }
 }

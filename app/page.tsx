@@ -1,4 +1,3 @@
-// import Image from "next/image";
 import { markdownToHtml } from "@/lib/markdownToHtml";
 
 export default async function Home() {

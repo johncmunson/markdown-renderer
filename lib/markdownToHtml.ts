@@ -9,16 +9,16 @@ import path from "path";
 import { remarkPageBreak } from "./pageBreakPlugin";
 
 export async function markdownToHtml() {
-  const filePath = path.join(process.cwd(), "resume.md");
+  const filePath = path.join(process.cwd(), "content/p-zero.md");
   const markdown = fs.readFileSync(filePath, "utf-8");
 
   const result = await unified()
     .use(remarkParse)
     .use(remarkGfm)
-    .use(remarkRehype)
+    .use(remarkRehype, { allowDangerousHtml: true })
     .use(remarkPageBreak)
     .use(rehypeSlug)
-    .use(rehypeStringify)
+    .use(rehypeStringify, { allowDangerousHtml: true })
     .process(markdown);
 
   return String(result);
