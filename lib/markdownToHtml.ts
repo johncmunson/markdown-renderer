@@ -9,7 +9,7 @@ import path from "path";
 import { remarkPageBreak } from "./pageBreakPlugin";
 
 export async function markdownToHtml() {
-  const filePath = path.join(process.cwd(), "content/p-zero.md");
+  const filePath = path.join(process.cwd(), "content/resume.md");
   const markdown = fs.readFileSync(filePath, "utf-8");
 
   const result = await unified()
